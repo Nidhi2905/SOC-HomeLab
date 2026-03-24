@@ -87,7 +87,7 @@ This sequence is something that would typically warrant further investigation in
 
 ### [Event ID 3 - Network Connection](Screenshots/Event%20Id%203%20analysis.png)
 
-### [Event ID 1 - Process Creation](analysiseventid1.png)
+### [Event ID 1 - Process Creation](Screenshots/Analysis%20event%20Id%201.png)
 
 ### [Sysmon Install](Screenshots/Sysmon%20installed.png) 
 
