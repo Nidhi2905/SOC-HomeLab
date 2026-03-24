@@ -107,7 +107,7 @@ Detection in this lab was based on:
 
 * [Screenshots](Screenshots/) → evidence from the lab
 * [Queries](queries/) → detection queries
-* report/ → analysis summary
+* [Report](report/) → analysis summary
 
 ---
 
