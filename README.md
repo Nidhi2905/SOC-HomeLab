@@ -79,17 +79,17 @@ This sequence is something that would typically warrant further investigation in
 
 ## Screenshots
 
-### Home Lab overview
+### [Home lab](Screenshots/Homelaboverview.png)
 
-### Kali Listener
+### [Kali Listener](Screenshots/Kalilistener.png)
 
-### PowerShell Execution
+### [PowerShell Execution](powershellexecution.png)
 
-### Event ID 3 – Network Connection
+### [Event ID 3 - Network Connection](eventid3analysis.png)
 
-### Event ID 1 – Process Creation
+### [Event ID 1 - Process Creation](analysiseventid1.png)
 
-### Sysmon Download & Install 
+### [Sysmon Install](sysmoninstalled.png) 
 
 ---
 
