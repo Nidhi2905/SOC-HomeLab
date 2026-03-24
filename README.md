@@ -79,6 +79,8 @@ This sequence is something that would typically warrant further investigation in
 
 ## Screenshots
 
+### Home Lab overview
+
 ### Kali Listener
 
 ### PowerShell Execution
