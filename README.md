@@ -79,7 +79,7 @@ This sequence is something that would typically warrant further investigation in
 
 ## Screenshots
 
-### ![Home lab](main/Screenshots/Home-lab-overview.png)
+### ![Home lab](Screenshots/Home%20lab%20overview.png)
 
 ### ![Kali Listener](Screenshots/Kalilistener.png)
 
