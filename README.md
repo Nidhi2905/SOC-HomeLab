@@ -85,7 +85,7 @@ This sequence is something that would typically warrant further investigation in
 
 ### [PowerShell Execution](powershellexecution.png)
 
-### [Event ID 3 - Network Connection](eventid3analysis.png)
+### [Event ID 3 - Network Connection](Screenshots/Event%20Id%203%20analysis.png)
 
 ### [Event ID 1 - Process Creation](analysiseventid1.png)
 
