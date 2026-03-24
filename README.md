@@ -106,7 +106,7 @@ Detection in this lab was based on:
 ## Project Structure
 
 * [Screenshots](Screenshots/) → evidence from the lab
-* queries/ → detection queries
+* [Queries](queries/) → detection queries
 * report/ → analysis summary
 
 ---
