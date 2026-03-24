@@ -81,7 +81,7 @@ This sequence is something that would typically warrant further investigation in
 
 ### [Home Lab](Screenshots/Home-lab-overview.png)
 
-### [Kali Listener](Screenshots/Kalilistener.png)
+### [Kali Listener](Screenshots/Kali%20listener.png)
 
 ### [PowerShell Execution](Screenshots/Powershell%20execution.png)
 
