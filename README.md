@@ -89,7 +89,7 @@ This sequence is something that would typically warrant further investigation in
 
 ### [Event ID 1 - Process Creation](analysiseventid1.png)
 
-### [Sysmon Install](Screenshots/Sysmoninstalled.png) 
+### [Sysmon Install](Screenshots/Sysmon%20installed.png) 
 
 ---
 
