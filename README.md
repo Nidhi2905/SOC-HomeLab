@@ -83,7 +83,7 @@ This sequence is something that would typically warrant further investigation in
 
 ### [Kali Listener](Screenshots/Kalilistener.png)
 
-### [PowerShell Execution](powershellexecution.png)
+### [PowerShell Execution](Screenshots/Powershell%20execution.png)
 
 ### [Event ID 3 - Network Connection](Screenshots/Event%20Id%203%20analysis.png)
 
