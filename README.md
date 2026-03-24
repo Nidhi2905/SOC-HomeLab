@@ -81,15 +81,15 @@ This sequence is something that would typically warrant further investigation in
 
 ### [Home Lab](Screenshots/Home-lab-overview.png)
 
-### ![Kali Listener](Screenshots/Kalilistener.png)
+### [Kali Listener](Screenshots/Kalilistener.png)
 
-### ![PowerShell Execution](powershellexecution.png)
+### [PowerShell Execution](powershellexecution.png)
 
-### ![Event ID 3 - Network Connection](eventid3analysis.png)
+### [Event ID 3 - Network Connection](eventid3analysis.png)
 
-### ![Event ID 1 - Process Creation](analysiseventid1.png)
+### [Event ID 1 - Process Creation](analysiseventid1.png)
 
-### ![Sysmon Install](sysmoninstalled.png) 
+### [Sysmon Install](Screenshots/Sysmon%installed.png) 
 
 ---
 
