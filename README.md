@@ -111,14 +111,6 @@ Detection in this lab was based on:
 
 ---
 
-## Next Steps
-
-* Forward logs into Splunk for centralised analysis
-* Develop detection rules and alerts
-* Test additional techniques such as encoded PowerShell or lateral movement scenarios
-
----
-
 ## Takeaway
 
 This lab highlights how endpoint telemetry can be used to piece together activity on a system, and how correlating different event types provides better context during investigation.
